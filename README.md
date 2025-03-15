@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm V Abhishek</h1>
+<h1 align="center">Hi 👋, I'm Vedula Abhishek</h1>
 <h3 align="center">A passionate aspiring Data Scientist actively seeking entry-level opportunities in data science and data analytics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabhishek12&label=Profile%20views&color=0e75b6&style=flat" alt="vabhishek12" /> </p>
