@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabhishek12&label=Profile%20views&color=0e75b6&style=flat" alt="vabhishek12" /> </p>
 
 
-- 🌱 I’m currently learning **Data science Machine learning**
+- 🌱 I’m a **Data scientist and  Machine learning Engineer**
 
 - 💬 Ask me about **Data science,MySql,Tableau**
 
@@ -25,4 +25,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/\"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="\" /></a></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vabhishek12&show_icons=true&locale=en&layout=compact" alt="vabhishek12" /></p>
