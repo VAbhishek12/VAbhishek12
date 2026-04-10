@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vabhishek12&label=Profile%20views&color=0e75b6&style=flat" alt="vabhishek12" /> </p>
 
-- 🔭 I’m currently working on [Indian Sign Language(ISL) Prediction]([https://github.com/VAbhishek12/Book_Recomandation_System](https://github.com/VAbhishek12/IndianSignLanguage_Prediction))
 
 - 🌱 I’m currently learning **Data science Machine learning**
 
