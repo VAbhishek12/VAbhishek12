@@ -5,7 +5,7 @@ AI perception systems for Autonomous Vehicles.
 
 ## 🔭 Current Work
 - Building real-time object detection & tracking pipelines 
-  for AV systems using YOLOv8/v9
+  for AV systems using YOLO
 - Implementing Vision-Language Models (VLMs) for 
   scene understanding in autonomous driving
 - Integrating LLMs into AV perception workflows
